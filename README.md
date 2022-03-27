@@ -7,12 +7,10 @@
 </p>
 
 👋 Hi, I am Sunghye Park <br>
-💼 I am putting together my portfolio.<br>
-💬 I am currently studying Java Script and React.<br><br>
+📚 I am currently studying Java Script and React.<br>
+🖌 I am putting together my portfolio.<br><br>
 [![](https://img.shields.io/badge/LinkedIn-sunghyePark-blue)](https://www.linkedin.com/in/sunghye-p-7838551b9/)
 [![](https://img.shields.io/badge/Gmail-algoroot524%40gmail.com-red)](algoroot524@gmail.com)
-
- <br>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
@@ -34,7 +32,7 @@ const sunghyePark = {
 ### ⚡ Recent GitHub Activity
 
   <br/>
-   <a href="https://github.com/AlgoRoots"><img alt="AlgoRoot's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aastha12&custom_title=Aastha's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/AlgoRoots"><img alt="AlgoRoot's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=algoroots&custom_title=AlgoRoot's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 ---
