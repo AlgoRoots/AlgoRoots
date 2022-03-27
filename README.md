@@ -18,7 +18,7 @@
 
 ```javascript
 const sunghyePark = {
-  nicName: "AlgoRoot",
+  nickName: "AlgoRoot",
   askMeAbout: ["web dev", "tech"],
   technologies: {
     fronEnd: ["JavaScript", "React"],
