@@ -21,7 +21,7 @@ const sunghyePark = {
   technologies: {
     fronEnd: ["JavaScript", "React"],
     database: ["mongo"],
-    misc: ["Firebase"],
+    BaaS: ["Firebase"],
   },
 };
 ```
