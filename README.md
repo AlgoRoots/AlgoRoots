@@ -26,14 +26,6 @@ const sunghyePark = {
 };
 ```
 
-<br>
-
-### ⚡ Recent GitHub Activity
-
-  <br/>
-   <a href="https://github.com/AlgoRoots"><img alt="AlgoRoot's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=algoroots&custom_title=AlgoRoot's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
 ---
 
 ⭐️ From [@algoroot](https://github.com/algoroots)
