@@ -7,7 +7,7 @@
 </p>
 
 👋 Hi, I am Sunghye Park <br>
-📚 I am currently studying JavaScript and React.<br>
+📚 I am currently studying JavaScript, TypeScript and React.<br>
 🖌 I am putting together my portfolio.<br><br>
 [![](https://img.shields.io/badge/LinkedIn-sunghyePark-blue)](https://www.linkedin.com/in/sunghye-p-7838551b9/)
 [![](https://img.shields.io/badge/Gmail-algoroot524%40gmail.com-red)](algoroot524@gmail.com)
@@ -20,8 +20,7 @@ const sunghyePark = {
   askMeAbout: ["web dev", "tech"],
   technologies: {
     fronEnd: ["JavaScript", "React"],
-    database: ["mongo"],
-    BaaS: ["Firebase"],
+    StorageService: ["Firebase", "AWS Bucket"],
   },
 };
 ```
