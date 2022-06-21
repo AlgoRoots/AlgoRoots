@@ -20,7 +20,7 @@ const sunghyePark = {
   askMeAbout: ["web dev", "tech"],
   technologies: {
     fronEnd: ["JavaScript", "React"],
-    StorageService: ["Firebase", "AWS Bucket"],
+    StorageService: ["Firebase", "AWS S3 Bucket"],
   },
 };
 ```
