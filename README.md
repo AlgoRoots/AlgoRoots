@@ -16,16 +16,27 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)<br>
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![ReactNative](https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=white)<br>
+
 ![ReactQuery](https://img.shields.io/badge/ReactQuery-ef4444?style=flat-square&logo=ReactQuery&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/RTK-764ABC?style=flat-square&logo=redux&logoColor=white)<br>
-![Styled-Components](https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square)
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-%231A1A1A?style=flat-square&logo=none&logoColor=white)
 ![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat-square&logo=chakra-ui&logoColor=white)<br>
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
+
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Changesets](https://img.shields.io/badge/Changesets-000000?style=flat-square)
+![Semantic Release](https://img.shields.io/badge/Semantic_Release-4945F6?style=flat-square&logo=semanticrelease&logoColor=white)<br>
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-2596be?style=flat-square)
+
  
 
 ---
